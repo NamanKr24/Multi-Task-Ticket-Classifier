@@ -79,9 +79,10 @@ A clean Gradio-based web app allows users to:
 
 - View predicted labels and extracted entities
 
-🔗 Live Demo: Hugging Face Spaces Link Below:
+- Live Demo:    [![Gradio App](https://img.shields.io/badge/Try%20on-Gradio-blue?logo=gradio)](https://huggingface.co/spaces/namankr24/Multi-Task-Ticket-Classifier).
 
-[![Gradio App](https://img.shields.io/badge/Try%20on-Gradio-blue?logo=gradio)](https://huggingface.co/spaces/namankr24/Multi-Task-Ticket-Classifier).
+- Interface Preview of the Gradio App
+  ![app_preview](app_preview.png)
 
 ---
 
