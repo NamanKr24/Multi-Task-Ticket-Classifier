@@ -2,7 +2,6 @@
 
 A traditional NLP-based system that automates multi-label classification and entity extraction from customer support tickets, designed as part of a machine learning internship assignment.
 
----
 
 ## 🚀 Project Overview
 
@@ -14,7 +13,6 @@ This project builds an end-to-end pipeline to process raw customer support ticke
 
 The goal is to simulate a real-world enterprise helpdesk setting using classical NLP and ML techniques, with a focus on interpretability, robustness, and modular design.
 
----
 
 ## 🔍 Problem Statement
 
@@ -27,7 +25,6 @@ Given raw customer support ticket texts, automate the following tasks:
    - Complaint-related keywords (e.g., "broken", "delay", "error")
    - Dates or temporal references
 
----
 
 ## 🧠 Approach
 
@@ -108,13 +105,11 @@ A clean Gradio-based web app allows users to:
 
 - Live demo for real-time ticket analysis
 
----
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
 ## 📬 Contact
 
